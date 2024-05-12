@@ -31,4 +31,5 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 :smile:
 :fa-car:
-![11]('https://wx1.sinaimg.cn/large/0076Nxwnly1g4f7d54jldg306e05wkjh.jpg')
+<img src="https://wx1.sinaimg.cn/large/0076Nxwnly1g4f7d54jldg306e05wkjh.jpg">
+![11]('')
