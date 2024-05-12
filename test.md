@@ -36,4 +36,4 @@ Content in the first column | Content in the second column
 :fa-car:
 
 <img src="https://wx1.sinaimg.cn/large/0076Nxwnly1g4f7d54jldg306e05wkjh.jpg">
-<img src="1.gif">
+<img src="https://aicz-sim.github.io/AICZAICZ/1.gif">
