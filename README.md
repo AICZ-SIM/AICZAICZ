@@ -4,6 +4,7 @@
 <span style="color: red;">红色文字</span>
 ### hbdjkdsbvkvbjkhbvkjbvkb
 #### dncjdc
+<div style="overflow:auto;width:1000px;">
 ```mermaid
 graph TB
   A1-->B1
@@ -19,6 +20,7 @@ graph TB
   A11==text===B11
   A12==text==>B12
 ```
+</div>
 ```mermaid
 pie title Pets adopted by volunteers
     "Dogs" : 386
